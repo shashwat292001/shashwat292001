@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning more about Machine Learning and web development.
 - 💬 Ask me about Web development or any tech related stuff.
-- 📫 How to reach me:  [WhatsApp - Pratham Wanmode](https://wa.me/9454829687)
+- 📫 How to reach me:  [WhatsApp - Shashwat Dubey](https://wa.me/9454829687)
 - ⚡ Fun fact: I spend almost 12 hours surfing the internet.
 - 💻 Web developer [MIB Technologies](https://mibtechnologies.in) - App and Website Development Company 
 
