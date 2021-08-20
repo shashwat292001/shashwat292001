@@ -25,8 +25,8 @@
 - 💻 Web developer [MIB Technologies](https://mibtechnologies.in) - App and Website Development Company 
 
 
-[![Linkedin: Pratham Wanmode](https://img.shields.io/badge/-shashwat292001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/shashwat-dubey-07655a1a7/)](https://https://www.linkedin.com/in/shashwat-dubey-07655a1a7/)
-[![GitHub pratham3012](https://img.shields.io/github/followers/pratham292001?label=follow&style=social)](https://github.com/pratham292001)
+[![Linkedin: Shashwat dubey](https://img.shields.io/badge/-shashwat292001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/shashwat-dubey-07655a1a7/)](https://https://www.linkedin.com/in/shashwat-dubey-07655a1a7/)
+[![GitHub shashwat292001](https://img.shields.io/github/followers/pratham292001?label=follow&style=social)](https://github.com/pratham292001)
 
 
 
