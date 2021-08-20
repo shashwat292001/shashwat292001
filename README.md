@@ -1,42 +1,35 @@
 # Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Shashwat Dubey
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=pratham3012&label=Views&color=blue&style=plastic" alt="pratham3012" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=shashwat292001&label=Views&color=blue&style=plastic" alt="shashwat292001" /> </p>
 
-<a href="https://twitter.com/WanmodePratham">
-  <img align="centre" alt="Pratham's Twitter" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />
+
+<a href="https://www.linkedin.com/in/shashwat-dubey-07655a1a7">
+  <img align="centre" alt="Shashwat's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
-<a href="https://www.linkedin.com/in/pratham-wanmode-3096bb158/">
-  <img align="centre" alt="Pratham's Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+<a href="https://github.com/shashwat292001">
+  <img align="centre" alt="Shashwat's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://github.com/pratham3012">
-  <img align="centre" alt="Pratham's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://instagram.com/akashashwat/">
+  <img align="centre" alt="Shashwat's Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
-<a href="https://instagram.com/pratham_wanmode/">
-  <img align="centre" alt="Pratham's Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
-</a>
-<a href="https://www.facebook.com/pratham.wanmode.7/">
-  <img align="centre" alt="Pratham's Facebook" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png" />
+<a href="https://www.facebook.com/shashwat.dubey.902">
+  <img align="centre" alt="Shashwat's Facebook" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19754.png" />
 </a>
 <br/>
 
-- 🔭 I’m currently working on [Electron Beam Radiation Processing Facility - RRCAT(DAE),Indore](https://github.com/EBRPF/arpf).
-- 💻 Summer Trainee at [Raja Ramanna Centre For Advanced Technology, Indore](https://www.rrcat.gov.in/)
-- 🌱 I’m currently learning more about Machine Learning.
-- 💬 Ask me about Android or any tech related stuff.
-- 📫 How to reach me: [Twitter - @WanmodePratham](https://twitter.com/WanmodePratham) , [WhatsApp - Pratham Wanmode](https://wa.link/0qag4r)
+
+- 🌱 I’m currently learning more about Machine Learning and web development.
+- 💬 Ask me about Web development or any tech related stuff.
+- 📫 How to reach me:  [WhatsApp - Pratham Wanmode](https://wa.me/9454829687)
 - ⚡ Fun fact: I spend almost 12 hours surfing the internet.
-- 💻 Founded [MIB Technologies](https://mibtechnologies.in) - App and Website Development Company 
-
-[![Twitter: WanmodePratham](https://img.shields.io/twitter/follow/WanmodePratham?style=social)](https://twitter.com/WanmodePratham)
-[![Linkedin: Pratham Wanmode](https://img.shields.io/badge/-pratham3012-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratham-wanmode-3096bb158/)](https://www.linkedin.com/in/pratham-wanmode-3096bb158/)
-[![GitHub pratham3012](https://img.shields.io/github/followers/pratham3012?label=follow&style=social)](https://github.com/pratham3012)
+- 💻 Web developer [MIB Technologies](https://mibtechnologies.in) - App and Website Development Company 
 
 
-**Badges & Certifications**  
-<br/>
-<a href="https://www.credly.com/badges/0a07079a-08b1-4410-878a-81029bc5ba10/public_url">
-  <img align="centre" alt="Machine Learning with Python - IBM" width="100px" src="https://images.credly.com/size/110x110/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" />
-</a>
+[![Linkedin: Pratham Wanmode](https://img.shields.io/badge/-shashwat292001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/shashwat-dubey-07655a1a7/)](https://https://www.linkedin.com/in/shashwat-dubey-07655a1a7/)
+[![GitHub pratham3012](https://img.shields.io/github/followers/pratham292001?label=follow&style=social)](https://github.com/pratham292001)
+
+
+
 
 **Languages and Tools:**  
 
@@ -50,11 +43,11 @@
 
 
 
-<a href="https://github.com/pratham3012">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham3012&theme=light&hide_langs_below=1" />
+<a href="https://github.com/pratham292001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham292001&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/pratham3012">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham3012&show_icons=true&theme=light&line_height=27" alt="Pratham's Github stats"/>
+<a href="https://github.com/shashwat292001">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat292001&show_icons=true&theme=light&line_height=27" alt="Shashwat's Github stats"/>
 </a>
 
 
